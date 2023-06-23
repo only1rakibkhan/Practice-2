@@ -2,4 +2,4 @@
 practice work
 
 live preview
-https://only1rakibkhan.github.io/Project-2/
+https://only1rakibkhan.github.io/Practice-2/
